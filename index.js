@@ -32,8 +32,6 @@ app.post("/login", (req, res)=> {
             } else {
                 res.send({ message: "Password didn't match"})
             }
-        } else {
-            res.send({message: "User not registered"})
         }
     })
 }) 
