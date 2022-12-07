@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/nodejsproject/static/css/main.2d6880e5.css",
-    "main.js": "/nodejsproject/static/js/main.0be45891.js",
-    "index.html": "/nodejsproject/index.html",
-    "main.2d6880e5.css.map": "/nodejsproject/static/css/main.2d6880e5.css.map",
-    "main.0be45891.js.map": "/nodejsproject/static/js/main.0be45891.js.map"
+    "main.css": "/nodejsproject/login-and-register-frontend/static/css/main.2d6880e5.css",
+    "main.js": "/nodejsproject/login-and-register-frontend/static/js/main.0be45891.js",
+    "index.html": "/nodejsproject/login-and-register-frontend/index.html",
+    "main.2d6880e5.css.map": "/nodejsproject/login-and-register-frontend/static/css/main.2d6880e5.css.map",
+    "main.0be45891.js.map": "/nodejsproject/login-and-register-frontend/static/js/main.0be45891.js.map"
   },
   "entrypoints": [
     "static/css/main.2d6880e5.css",
